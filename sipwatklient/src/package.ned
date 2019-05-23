@@ -1,0 +1,3 @@
+package sipwatklient;
+
+@license(LGPL);
